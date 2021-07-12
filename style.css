@@ -15,8 +15,8 @@ body {
 }
 .card {
   position: relative;
-  width: 200px;
-  height: 300px;
+  width: 150px;
+  height: 250px;
   background: #fff;
   transform-style: preserve-3d;
   transform: perspective(1000px);
@@ -67,7 +67,7 @@ body {
 }
 .card .details .content {
   display: flex;
-  justify-content: center;
+  justify-content: centers;
   align-items: center;
   flex-direction: column;
 }
